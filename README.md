@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **Mellow** (you may address me in this way), a student in **BUPT**, majoring in **Internet of Things Engineering**.
+
+- 🔭 **Research area:** ...... 
+- 📫 **My contact information:** [2822176877@qq.com](mailto:2822176877@qq.com)
+- 🌱 **More details to be complemented...** 
+**Feel free to contact me!** 💬
